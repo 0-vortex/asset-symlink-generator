@@ -1,2 +1,1 @@
-asset-symlink-generator
-=======================
+/var/www/retarget/ZendSkeletonApplication/vendor/vrtxf/asset-symlink-generator/README.md
